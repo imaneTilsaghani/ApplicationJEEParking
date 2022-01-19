@@ -1,0 +1,22 @@
+SMAP
+Section_jsp.java
+JSP
+*S JSP
+*F
++ 0 Section.jsp
+Section.jsp
++ 1 header.jsp
+template/header.jsp
++ 2 menu.jsp
+template/menu.jsp
++ 3 footer.jsp
+template/footer.jsp
+*L
+5,19:51
+5#1,123:70
+23#0,2:192
+5#2,56:194
+24#0,51:250
+5#3,30:301
+74#0,18:330
+*E
